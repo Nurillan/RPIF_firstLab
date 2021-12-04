@@ -1,0 +1,1 @@
+Size of /home/nikita/.bash_history = 2000 bytes.
